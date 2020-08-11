@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DapengFeng&show_icons=true&theme=synthwave">
 </a>
 
-# [Dapeng Feng](dapengfeng.github.io)
+# [Dapeng Feng](https://dapengfeng.github.io)
 
 > Master Student
 
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-VSCode-e34f26?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%%2B%2B&logoColor=fff)
 
-- [✒ My Blog](dapengfeng.github.io)
+- [✒ My Blog](https://dapengfeng.github.io)
