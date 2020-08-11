@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake&logoColor=fff)
 ![](https://img.shields.io/badge/-VSCode-e34f26?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%%2B%2B&logoColor=fff)
+![](https://img.shields.io/badge/-Latex-008080?style=flat-square&logo=Latex&logoColor=fff)
+
 
 - [✒ My Blog](https://dapengfeng.github.io)
