@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Dapeng Feng
 
-> Master Student
+> PhD Student
 
 ![](https://img.shields.io/badge/-Pytorch-ee4c2c?style=flat-square&logo=Pytorch&logoColor=000)
 ![](https://img.shields.io/badge/-Matlab-239120?style=flat-square&logo=Matlab&logoColor=fff)
