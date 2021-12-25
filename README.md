@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DapengFeng&show_icons=true&theme=synthwave">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DapengFeng&show_icons=true&theme=synthwave&layout=compact">
 </a>
 
 # Dapeng Feng
