@@ -31,9 +31,9 @@ PhD Student
 
 <p>
   <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=DapengFeng&show_icons=true&theme=synthwave">
+    <img align="left" width=55% src="https://github-readme-stats.vercel.app/api?username=DapengFeng&show_icons=true&theme=synthwave">
   </a>
   <a href="#">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DapengFeng&show_icons=true&layout=compact&theme=synthwave&langs-count=10">
+    <img align="right" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=DapengFeng&show_icons=true&layout=compact&theme=synthwave&langs-count=10">
   </a>
 </p>
