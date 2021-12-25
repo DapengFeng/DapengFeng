@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DapengFeng&show_icons=true&theme=synthwave&layout=compact">
-</a>
 
 # Dapeng Feng
 
-> PhD Student
+PhD Student
 
 ![](https://img.shields.io/badge/-Pytorch-ee4c2c?style=flat-square&logo=Pytorch&logoColor=000)
 ![](https://img.shields.io/badge/-Matlab-239120?style=flat-square&logo=Matlab&logoColor=fff)
@@ -31,3 +28,12 @@ Here are some ideas to get you started:
 
 
 - [✒ My Blog](https://dapengfeng.github.io)
+
+<p>
+  <a href="#">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=DapengFeng&show_icons=true&theme=synthwave">
+  </a>
+  <a href="#">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DapengFeng&show_icons=true&layout=compact&theme=synthwave&langs-count=10">
+  </a>
+</p>
