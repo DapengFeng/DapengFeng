@@ -29,8 +29,4 @@ PhD Student
 
 - [✒ My Blog](https://dapengfeng.github.io)
 
-<p>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=DapengFeng&show_icons=true&theme=synthwave">
-  </a>
-</p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=DapengFeng&count_private=true&include_all_commits=true&show_icons=true&show_icons=true&theme=synthwave)](https://dapengfeng.github.io)
