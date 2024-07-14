@@ -2487,7 +2487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ethz-adrl/control-toolbox</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Control Toolbox - An Open-Source C++ Library for Robotics, Optimal and Model Predictive Control</div>
@@ -2540,7 +2540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uzh-rpg/rpg_mpc</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Model Predictive Control for Quadrotors with extension to Perception-Aware MPC</div>
@@ -2593,7 +2593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fzhiheng/RoGS</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting</div>
@@ -2646,7 +2646,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WerWolv/ImHex</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</div>
@@ -3079,7 +3079,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 273k out of 214m repositories</span>
+                                    <span class="gh">ranked 273k out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 143 stars</div>
                             </div>
@@ -3218,7 +3218,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.54m out of 214m repositories</span>
+                                    <span class="gh">ranked 3.54m out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3364,7 +3364,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jul 2024, 03:02:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jul 2024, 04:02:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
