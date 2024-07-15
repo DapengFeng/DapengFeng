@@ -201,6 +201,7 @@ Mac                      16 hrs 22 mins      ███████████�
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<div>
 <img align="left" width="10%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DapengFeng&theme=dark&hide_border=true" />
@@ -208,11 +209,14 @@ Mac                      16 hrs 22 mins      ███████████�
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DapengFeng&theme=dark&hide_border=true" />
 </picture>
 <img align="right" width="10%"  src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/right.png" />
+</div>
 
 <!-- metrics 基础资料 -->
+<div>
 <img width="10%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/github-metrics/base.svg" />
 &emsp;<img width="10%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/cxyduck.gif" />
+</div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
