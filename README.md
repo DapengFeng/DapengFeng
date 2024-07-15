@@ -250,7 +250,7 @@ Mac                      16 hrs 22 mins      ███████████�
 
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,,html,pytorch,tensorflow,opencv,cmake,ps,pr,ai,ros,linux,ubuntu,windows,raspberrypi,anaconda,git,githubactions,github,gitlab,latex,vscode,vim,bash,markdown,stackoverflow,discord" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,html,pytorch,tensorflow,opencv,cmake,ps,pr,ai,ros,linux,ubuntu,windows,apple,raspberrypi,anaconda,git,githubactions,github,gitlab,latex,vscode,vim,bash,markdown,stackoverflow,discord" /><br>
 
 <!-- svg -->
 <!-- <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
