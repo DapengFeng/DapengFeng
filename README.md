@@ -174,7 +174,7 @@ Mac                      16 hrs 22 mins      ███████████�
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DapengFeng&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DapengFeng&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DapengFeng&theme=dark&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DapengFeng&theme=dark&hide_border=true" />
 </picture>
 <img align="right" width="15%"  src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/right.png" />
 </div>
