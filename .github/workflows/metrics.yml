@@ -3,7 +3,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
   
@@ -198,3 +198,16 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+
+      # ♐ Random code snippet
+      - name: JavaScript or TypeScript snippet of the day
+      uses: lowlighter/metrics@latest
+      with:
+        filename: github-metrics/code.svg
+        token: ${{ secrets.GITHUB_TOKEN }}
+        base: ""
+        plugin_code: yes
+        plugin_code_days: 3
+        plugin_code_lines: 12
+        plugin_code_load: 400
+        plugin_code_visibility: all
