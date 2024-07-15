@@ -86,7 +86,7 @@
 
 <tr><td>
 
-### 📊 WakaTime
+<h3>📊 WakaTime</h3> 
 
 <picture>
   <source
@@ -191,17 +191,17 @@
 <img src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng@main/assets/images/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
-
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Pytorch Badge](https://img.shields.io/badge/Pytorch-EE4C2C?logo=pytorch&logoColor=000&style=flat)
-![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=000&style=flat)
-![CMake Badge](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=000&style=flat)
-![Adobe Badge](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=000&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" /> 
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" /> 
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?logo=pytorch&logoColor=000&style=flat" /> 
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=000&style=flat" /> 
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=000&style=flat" /> 
+  <img src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=000&style=flat" /> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" /> 
+</p>
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,html,pytorch,tensorflow,opencv,cmake,ps,pr,ai,ros,linux,ubuntu,windows,apple,raspberrypi,anaconda,git,githubactions,github,gitlab,latex,vscode,vim,bash,markdown,stackoverflow,discord" /><br>
