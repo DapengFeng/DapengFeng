@@ -22,7 +22,7 @@ jobs:
           user: DapengFeng
           template: classic
           config_timezone: Asia/Shanghai
-          base: "header, activity, community, repositories"
+          base: "header, activity, community"
           # 此插件为文档中的 🧮 Repositories traffic
           plugin_traffic: yes
           # 此插件为文档中的 👨‍💻 Lines of code changed
@@ -30,7 +30,7 @@ jobs:
           # 此插件为文档中的 🙋 Introduction
           plugin_introduction: yes
           # 此插件为文档中的 🎫 Gists
-          plugin_gists: yes
+          # plugin_gists: yes
           # 此插件为文档中的 💫 Star lists
           # plugin_starlists: yes
           # plugin_starlists_limit_repositories: 2
