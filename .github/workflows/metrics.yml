@@ -201,13 +201,13 @@ jobs:
 
       # ♐ Random code snippet
       - name: JavaScript or TypeScript snippet of the day
-      uses: lowlighter/metrics@latest
-      with:
-        filename: github-metrics/code.svg
-        token: ${{ secrets.GITHUB_TOKEN }}
-        base: ""
-        plugin_code: yes
-        plugin_code_days: 3
-        plugin_code_lines: 12
-        plugin_code_load: 400
-        plugin_code_visibility: all
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/code.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_code: yes
+          plugin_code_days: 3
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_code_visibility: all
