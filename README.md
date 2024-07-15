@@ -202,20 +202,20 @@ Mac                      16 hrs 22 mins      ███████████�
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div>
-<img align="left" width="5%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/left.png" />
+<img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DapengFeng&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DapengFeng&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DapengFeng&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="5%"  src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/right.png" />
+<img align="right" width="15%"  src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/right.png" />
 </div>
 
 <!-- metrics 基础资料 -->
 <div>
-<img width="5%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/github-metrics/base.svg" />
-&emsp;<img width="5%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/cxyduck.gif" />
+<img width="15%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/cxyduck.gif" />&emsp;
+<img width="65%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/github-metrics/base.svg" />
+&emsp;<img width="15%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/cxyduck.gif" />
 </div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
