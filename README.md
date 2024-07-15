@@ -59,26 +59,21 @@
 <h3>🏢 Education Experience</h3>
 
 <ul>
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng@main/assets/images/sysu.png" />
-  
+<img align="right" width="80" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng@main/assets/images/sysu.png" />
 <li><p><a href="https://www.sysu.edu.cn">Sun Yat-sen University</a> &emsp; 📌 2021-09-01 —— Now</p>
 <ul>
 <li>Ongoing Ph.D.</li>
 <li>Computer Science and Technology</li>
 </ul>
 </li>
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng@main/assets/images/sysu.png" />
-
+<img align="right" width="80" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng@main/assets/images/sysu.png" />
 <li><p><a href="https://www.sysu.edu.cn">Sun Yat-sen University</a> &emsp; 📌 2018-08-29 —— 2021-06-20</p>
 <ul>
 <li>Master&#39;s degree</li>
 <li>Pattern Recognition and Intelligent Systems</li>
 </ul>
 </li>
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng@main/assets/images/gdufs.png" />
-
+<img align="right" width="80" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng@main/assets/images/gdufs.png" />
 <li><p><a href="https://www.gdufs.edu.cn/">Guangdong University of Foreign Studies</a> &emsp; 📌 2014-09-14 —— 2018-06-21</p>
 <ul>
 <li>Bachelor&#39;s degree</li>
