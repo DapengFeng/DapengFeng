@@ -182,7 +182,7 @@ Mac                      16 hrs 22 mins      ███████████�
 <!-- metrics 基础资料 -->
 <div>
 <img width="15%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/cxyduck.gif" />&emsp;
-<img width="65%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/github-metrics/base.svg" />
+<img width="60%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/github-metrics/base.svg" />
 &emsp;<img width="15%" src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/assets/images/cxyduck.gif" />
 </div>
 
