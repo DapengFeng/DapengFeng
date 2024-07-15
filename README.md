@@ -282,7 +282,7 @@ Mac                      16 hrs 22 mins      ███████████�
 
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,opencv,cmake,ps,pr,ai,linux,windows,git,github,gitlab,markdown" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,,html,pytorch,tensorflow,opencv,cmake,ps,pr,ai,ros,linux,ubuntu,windows,raspberrypi,anaconda,git,githubactions,github,gitlab,latex,vscode,vim,bash,markdown,stackoverflow,discord" /><br>
 
 <!-- svg -->
 <!-- <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -357,7 +357,7 @@ Mac                      16 hrs 22 mins      ███████████�
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/github-metrics/code.svg" alt="code" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/DapengFeng/DapengFeng/github-metrics/stars.svg" alt="stars" /></td>
