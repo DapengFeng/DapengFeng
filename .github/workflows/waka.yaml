@@ -4,10 +4,12 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-  
+
+permissions:
+  contents: write
+
 jobs:
   update-readme:
-    permissions: write-all
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
@@ -22,4 +24,3 @@ jobs:
           SHOW_SHORT_INFO : "False"
           SHOW_PROJECTS : "False"
           SHOW_TOTAL_CODE_TIME : "False"
-          SHOW_TITLE : true
