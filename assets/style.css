@@ -3801,7 +3801,7 @@
     padding-top: 0 !important;
   }
 }
-@-moz-document regexp("^https?://((education|gist|graphql|guides|raw|resources|status|support|vscode-auth)\\.)?github\\.com((?!(/(sponsors|readme)$)).)*$"), domain("githubusercontent.com"), domain("www.githubstatus.com") {
+@-moz-document regexp("^https?://((education|gist|graphql|guides|raw|resources|status|support|vscode-auth)\\.)?github\\.com((?!(/(sponsors|readme)$)).)*$"), domain("githubusercontent.com"), domain("www.githubstatus.com") domain("github.io") {
   /*[[syntax-theme]]*//*[[syntax-jupyter]]*/
   /* inline code - big blocks */
   .highlight {
@@ -3867,7 +3867,7 @@
     background: transparent !important;
   }
 }
-@-moz-document regexp("^https?://((education|gist|graphql|guides|raw|resources|status|support|vscode-auth)\\.)?github\\.com((?!(/(sponsors|readme)$)).)*$"), domain("githubusercontent.com"), domain("www.githubstatus.com") {
+@-moz-document regexp("^https?://((education|gist|graphql|guides|raw|resources|status|support|vscode-auth)\\.)?github\\.com((?!(/(sponsors|readme)$)).)*$"), domain("githubusercontent.com"), domain("www.githubstatus.com") domain("github.io") {
   .CodeMirror {
     background-color: var(--ghd-code-background) !important;
     color: var(--ghd-code-color) !important;
@@ -3914,7 +3914,7 @@
   }
   /*[[syntax-codemirror]]*/
 }
-@-moz-document regexp("^https?://((education|gist|graphql|guides|raw|resources|status|support|vscode-auth)\\.)?github\\.com((?!(/(sponsors|readme)$)).)*$"), domain("gist.github.com") {
+@-moz-document regexp("^https?://((education|gist|graphql|guides|raw|resources|status|support|vscode-auth)\\.)?github\\.com((?!(/(sponsors|readme)$)).)*$"), domain("gist.github.com") domain("github.io") {
   /* generated refined-github rules */
   /* generated github-hovercard rules */
   /* generated gitako rules */
@@ -10500,7 +10500,7 @@
     border-color: #343434;
   }
 }
-@-moz-document regexp("^https?://((education|gist|graphql|guides|raw|resources|status|support|vscode-auth)\\.)?github\\.com((?!(/(sponsors|readme)$)).)*$"), regexp("^https?://www\.zuora\.com.*github\.com.*"), domain("githubusercontent.com"), domain("www.githubstatus.com"), domain("stylishthemes.github.io") {
+@-moz-document regexp("^https?://((education|gist|graphql|guides|raw|resources|status|support|vscode-auth)\\.)?github\\.com((?!(/(sponsors|readme)$)).)*$"), regexp("^https?://www\.zuora\.com.*github\.com.*"), domain("githubusercontent.com"), domain("www.githubstatus.com"), domain("github.io") {
   :root:root, :root:root body,
   [data-color-mode="light"][data-light-theme*="dark"],
   [data-color-mode="dark"][data-dark-theme*="dark"] {
