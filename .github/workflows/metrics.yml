@@ -100,14 +100,14 @@ jobs:
       #     config_timezone: Asia/Shanghai
           
       # 🎟️ Follow-up of issues and pull requests 
-      - name: Indepth analysis
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/followup.indepth.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_followup: yes
-          plugin_followup_indepth: yes
+      # - name: Indepth analysis
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/followup.indepth.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     base: ""
+      #     plugin_followup: yes
+      #     plugin_followup_indepth: yes
           
       # 🎭 Comment reactions
       - name: Comment reactions
@@ -211,3 +211,15 @@ jobs:
           plugin_code_lines: 12
           plugin_code_load: 400
           plugin_code_visibility: all
+
+      # 🗨️ Stack Overflow
+      - name: Top answers from stackoverflow
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stackoverflow.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 1
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 2
