@@ -39,17 +39,17 @@ jobs:
           # plugin_starlists_only: Awesome
           
       # 📅 Isometric commit calendar
-      - name: Full-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/isocalendar.fullyear.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          # 不添加基础信息
-          base: ""
-          # 使用此插件
-          plugin_isocalendar: yes
-          # 设置成显示整年
-          plugin_isocalendar_duration: full-year
+      # - name: Full-year calendar
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/isocalendar.fullyear.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     # 不添加基础信息
+      #     base: ""
+      #     # 使用此插件
+      #     plugin_isocalendar: yes
+      #     # 设置成显示整年
+      #     plugin_isocalendar_duration: full-year
 
       # 🈷️ Languages activity
       - name: Indepth analysis
@@ -97,7 +97,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          config_timezone: Europe/Paris
+          config_timezone: Asia/Shanghai
           
       # 🎟️ Follow-up of issues and pull requests 
       - name: Indepth analysis
@@ -143,24 +143,24 @@ jobs:
           plugin_repositories_pinned: 2
 
       # 💬 Discussions
-      - name: GitHub Discussions
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/discussions.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_discussions: yes
-          plugin_discussions_categories_limit: 8       
+      # - name: GitHub Discussions
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/discussions.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     base: ""
+      #     plugin_discussions: yes
+      #     plugin_discussions_categories_limit: 8       
    
       # 📆 Commit calendar
-      - name: Full history calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/calendar.full.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
+      # - name: Full history calendar
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/calendar.full.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     base: ""
+      #     plugin_calendar: yes
+      #     plugin_calendar_limit: 0
 
       # 🏆 Achievements
       - name: Compact display
@@ -196,7 +196,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, languages, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
       # ♐ Random code snippet
