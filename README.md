@@ -176,8 +176,20 @@
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@DapengFeng/0beaa323-13de-48bf-8ee3-de2bcc473477.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@DapengFeng/4a33c421-b888-46f2-bf4d-4f89c3dc491e.svg" width="500" alt="Wakatime"/></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@DapengFeng/f43e19d1-1994-4ecb-bc7e-1e78583619c5.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@DapengFeng/0beaa323-13de-48bf-8ee3-de2bcc473477.svg" />
+        <img src="https://wakatime.com/share/@DapengFeng/f43e19d1-1994-4ecb-bc7e-1e78583619c5.svg" width="500" alt="Wakatime"/>
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@DapengFeng/a8fe361d-3e5a-4204-a1f2-41745af46fc3.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@DapengFeng/4a33c421-b888-46f2-bf4d-4f89c3dc491e.svg" />
+        <img src="https://wakatime.com/share/@DapengFeng/a8fe361d-3e5a-4204-a1f2-41745af46fc3.svg" width="500" alt="Wakatime"/>
+      </picture>
+    </td>
   </tr>
 </table>
 
