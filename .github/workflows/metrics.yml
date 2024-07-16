@@ -96,7 +96,7 @@ jobs:
           base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_habits_charts: no
           config_timezone: Asia/Shanghai
           
       # 🎟️ Follow-up of issues and pull requests 
