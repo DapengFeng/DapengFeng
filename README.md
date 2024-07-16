@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <link rel="stylesheet" href="assets/css/github-markdown.css">
 
 <div align="center">
