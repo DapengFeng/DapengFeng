@@ -184,7 +184,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 8
+          plugin_activity_limit: 4
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
       
@@ -200,26 +200,26 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
       # ♐ Random code snippet
-      - name: JavaScript or TypeScript snippet of the day
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/code.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_code: yes
-          plugin_code_days: 3
-          plugin_code_lines: 12
-          plugin_code_load: 400
-          plugin_code_visibility: all
+      # - name: JavaScript or TypeScript snippet of the day
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/code.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     base: ""
+      #     plugin_code: yes
+      #     plugin_code_days: 3
+      #     plugin_code_lines: 12
+      #     plugin_code_load: 400
+      #     plugin_code_visibility: all
 
       # 🗨️ Stack Overflow
-      - name: Top answers from stackoverflow
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/stackoverflow.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 1
-          plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 2
+      # - name: Top answers from stackoverflow
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/stackoverflow.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     base: ""
+      #     plugin_stackoverflow: yes
+      #     plugin_stackoverflow_user: 1
+      #     plugin_stackoverflow_sections: answers-top
+      #     plugin_stackoverflow_limit: 2
