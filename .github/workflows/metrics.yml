@@ -216,7 +216,7 @@ jobs:
       - name: Top answers from stackoverflow
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.stackoverflow.svg
+          filename: github-metrics/stackoverflow.svg
           token: NOT_NEEDED
           base: ""
           plugin_stackoverflow: yes
