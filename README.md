@@ -1,3 +1,4 @@
+<div>
 <link rel="stylesheet" href="style.css">
 
 <div align="center">
@@ -305,4 +306,5 @@
 
 <!-- just img 图片 -->
 <img src="assets/images/icon.png" />
+</div>
 </div>
