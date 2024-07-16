@@ -1,14 +1,5 @@
-<head>
-<style>
-@media (prefers-color-scheme: dark) {
-    html {
-        background-color: #0D1117;
-    }
-}
-</style>
-</head>
 <div>
-<!-- <link rel="stylesheet" href="assets/style.css"> -->
+<link rel="stylesheet" href="assets/css/github-markdown.css">
 
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
