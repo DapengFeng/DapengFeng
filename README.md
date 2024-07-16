@@ -295,10 +295,6 @@
     <td><img src="github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
     <td><img src="github-metrics/activity.svg" alt="activity" /></td>
     <td><img src="github-metrics/code.svg" alt="code" /></td>
   </tr>
