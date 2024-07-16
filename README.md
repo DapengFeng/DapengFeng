@@ -181,26 +181,6 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DapengFeng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DapengFeng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
-<!-- Wakatime Graph-->
-<!-- <table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@DapengFeng/f43e19d1-1994-4ecb-bc7e-1e78583619c5.svg" />
-        <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@DapengFeng/0beaa323-13de-48bf-8ee3-de2bcc473477.svg" />
-        <img src="https://wakatime.com/share/@DapengFeng/f43e19d1-1994-4ecb-bc7e-1e78583619c5.svg" width="500" alt="Wakatime"/>
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@DapengFeng/a8fe361d-3e5a-4204-a1f2-41745af46fc3.svg" />
-        <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@DapengFeng/4a33c421-b888-46f2-bf4d-4f89c3dc491e.svg" />
-        <img src="https://wakatime.com/share/@DapengFeng/a8fe361d-3e5a-4204-a1f2-41745af46fc3.svg" width="500" alt="Wakatime"/>
-      </picture>
-    </td>
-  </tr>
-</table> -->
-
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -228,32 +208,11 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,html,pytorch,tensorflow,opencv,cmake,ps,pr,ai,ros,linux,ubuntu,windows,apple,raspberrypi,anaconda,git,githubactions,github,gitlab,latex,vscode,vim,bash,markdown,stackoverflow,discord" /><br>
 
 <!-- svg -->
-<!-- <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br> -->
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-
-<!-- gif -->
-<!-- <img height="100" width="100" src="assets/images/html.webp">
-<img height="100" width="100" src="assets/images/cssgif.webp">
-<img height="100" width="100" src="assets/images/vscode.webp">
-<img height="100" width="100" src="assets/images/react.webp">
-<img height="95" width="95" src="assets/images/vue.webp">
-<img height="100" width="100" src="assets/images/python.webp">
-<img height="100" width="100" src="assets/images/js.webp">
-<img height="100" width="100" src="assets/images/github.webp"> -->
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
