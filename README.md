@@ -245,6 +245,10 @@
     <td><img src="github-metrics/wakatime.svg" alt="wakatime" /></td>
     <td><img src="github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
+   <tr>
+    <td><img src="github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+  </tr>
   <tr>
     <td><img src="github-metrics/activity.svg" alt="activity" /></td>
     <td><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
