@@ -1,3 +1,29 @@
+<style>
+@media (prefers-color-scheme: light) {
+    :root {
+        color-scheme: light;
+    }
+
+    .active-theme::after {
+        content: "Light / Day ☀️";
+    }
+}
+
+
+/* ---------------------- */
+/* OS (Dark / Night) Mode */
+/* ---------------------- */
+@media (prefers-color-scheme: dark) {
+    :root {
+        color-scheme: dark;
+    }
+
+    .active-theme::after {
+        content: "Dark / Night 🌙";
+    }
+}
+</style>
+
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
