@@ -287,12 +287,12 @@
     <td><img src="github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="github-metrics/code.svg" alt="code" /></td>
     <td><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
     <td><img src="github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="github-metrics/code.svg" alt="code" /></td>
+    <td><img src="github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
     <td><img src="github-metrics/stars.svg" alt="stars" /></td>
