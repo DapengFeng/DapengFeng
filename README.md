@@ -51,7 +51,8 @@
 <p>&emsp;&emsp;I'm passionate about exploring computer vision, robotics, and computer graphics.</p>
 <p>&emsp;&emsp;I take inspiration from Steve Jobs, who believed in changing the world through innovation.</p>
 <p>&emsp;&emsp;I enjoy sharing ideas, learning from others, and blending technology with creativity to make a difference.</p>
-<p>&emsp;&emsp;If you're interested in tech, innovation, or just making things better, I'd love to connect and chat. Feel free to open a <a href="https://github.com/DapengFeng/DapengFeng/discussions">Disscussion</a>!</p>
+<p>&emsp;&emsp;If you're interested in tech, innovation, or just making things better, I'd love to connect and chat.</p>
+<p>&emsp;&emsp;Feel free to open a <a href="https://github.com/DapengFeng/DapengFeng/discussions">Discussion</a>!</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
