@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <link rel="stylesheet" href="assets/css/github-markdown.css">
 
 <div align="center">
@@ -39,7 +39,7 @@
 
 <h1>🙋 Hello </h1> 
 
-<table>
+<table align="center">
   
 <tr><td>
 
