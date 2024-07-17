@@ -144,14 +144,14 @@ jobs:
           plugin_repositories_pinned: 2
 
       # 💬 Discussions
-      # - name: GitHub Discussions
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: github-metrics/discussions.svg
-      #     token: ${{ secrets.GITHUB_TOKEN }}
-      #     base: ""
-      #     plugin_discussions: yes
-      #     plugin_discussions_categories_limit: 8       
+      - name: GitHub Discussions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/discussions.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8       
    
       # 📆 Commit calendar
       # - name: Full history calendar
