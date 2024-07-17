@@ -24,7 +24,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=DapengFeng&label=Views&color=orange&style=flat" alt="visitor" />&emsp;
     <!-- discussions -->
-    <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/DapengFeng/DapengFeng" />&emsp;
+    <a href="https://github.com/DapengFeng/DapengFeng/discussions"><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/DapengFeng/DapengFeng" /></a>&emsp;
     <!-- wakatime -->    
     <a href="https://wakatime.com/@1e073504-9bd8-4f29-af5a-88b8022fc828"><img src="https://wakatime.com/badge/user/1e073504-9bd8-4f29-af5a-88b8022fc828.svg" alt="Total time coded since Apr 3 2020" /></a>
 
