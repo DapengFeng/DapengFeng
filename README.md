@@ -248,10 +248,10 @@
     <td><img src="github-metrics/wakatime.svg" alt="wakatime" /></td>
     <td><img src="github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
-   <tr>
+<!--    <tr>
     <td><img src="github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
     <td><img src="github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
+  </tr> -->
 <!--   <tr>
     <td><img src="github-metrics/activity.svg" alt="activity" /></td>
     <td><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
@@ -262,7 +262,7 @@
   </tr> -->
 </table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/d97efa88334ebb51c44cf562cb94891ad40a5358.svg" />
+<!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/d97efa88334ebb51c44cf562cb94891ad40a5358.svg" /> -->
 
 <!-- just img 图片 -->
 <img src="assets/images/icon.png" />
