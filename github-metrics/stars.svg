@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google-deepmind/tapnet</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tracking Any Point (TAP)</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arjunvb/drivetrack</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -124,7 +124,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>robotperf/benchmarks</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Benchmarking suite to evaluate 🤖 robotics computing performance. Vendor-neutral. ⚪Grey-box and ⚫Black-box approaches.</div>
@@ -177,7 +177,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>m-schuetz/CudaLOD</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -231,7 +231,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nullptr81/3dgs-accel</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -266,7 +266,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        1
+                                        2
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JokerJohn/MS-Mapping</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System</div>
@@ -326,7 +326,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gira3d/gira3d-occupancy-modeling</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Local occupancy modeling from Gaussian Mixture Models.</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gira3d/gira3d-registration</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Frame-to-Frame Registration using Gaussian Mixture Models.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gira3d/gira3d-reconstruction</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-resolution point cloud reconstruction from a compact Gaussian Mixture Model.</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wkentaro/gdown</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google Drive Public File Downloader when Curl/Wget Fails</div>
