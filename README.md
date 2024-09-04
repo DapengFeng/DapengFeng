@@ -233,14 +233,14 @@
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="assets/images/githubgif.gif" />
+<!-- <img width="36%" src="assets/images/githubgif.gif" /> -->
 
 <!-- first form 第一个表格 -->
-<table>
+<!-- <table>
   <tr>
     <td><img src="github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
-</table>
+</table> -->
 
 <!-- second form 第二个表格 -->
 <table>
