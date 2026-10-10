@@ -100,9 +100,9 @@ I build systems that help robots **perceive and reconstruct the world**, and too
 
 <br>
 
-- **Ph.D. · Computer Science and Technology**<br>Sun Yat-sen University · September 2021 – June 21, 2026
-- **Master's · Pattern Recognition and Intelligent Systems**<br>Sun Yat-sen University · 2018–2021
-- **Bachelor's · Computer Science and Technology**<br>Guangdong University of Foreign Studies · 2014–2018
+- **Ph.D. · Computer Science and Technology**<br>Sun Yat-sen University · 2021 – 2026
+- **Master's · Pattern Recognition and Intelligent Systems**<br>Sun Yat-sen University · 2018 – 2021
+- **Bachelor's · Computer Science and Technology**<br>Guangdong University of Foreign Studies · 2014 – 2018
 
 </details>
 
