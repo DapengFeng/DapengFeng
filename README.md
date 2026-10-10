@@ -21,11 +21,11 @@ I build systems that help robots **perceive and reconstruct the world**, and too
 ### `$ git log --author=DapengFeng -5`
 
 <!--RECENT_COMMITS:START-->
+- `2026-10-10` `DapengFeng/genesis` · [`22e0601`](https://github.com/DapengFeng/genesis/commit/22e0601b19736ae043bf11b556ccfc06c22a4e3f) — [chore: refine contribution templates and fix hook autoupdate](https://github.com/DapengFeng/genesis/commit/22e0601b19736ae043bf11b556ccfc06c22a4e3f)
 - `2026-10-09` `DapengFeng/dapengfeng.github.io` · [`c5b2b95`](https://github.com/DapengFeng/dapengfeng.github.io/commit/c5b2b9589306e9e36a4c468d69676b0836625114) — [fix: make catalog browser checks resilient to new posts](https://github.com/DapengFeng/dapengfeng.github.io/commit/c5b2b9589306e9e36a4c468d69676b0836625114)
 - `2026-10-08` `DapengFeng/dapengfeng.github.io` · [`32f0df0`](https://github.com/DapengFeng/dapengfeng.github.io/commit/32f0df07e80ab328c302a51701b8fa9351925175) — [feat: add IceCube neutrino Nobel physics article](https://github.com/DapengFeng/dapengfeng.github.io/commit/32f0df07e80ab328c302a51701b8fa9351925175)
 - `2026-10-08` `DapengFeng/dapengfeng.github.io` · [`a2980b4`](https://github.com/DapengFeng/dapengfeng.github.io/commit/a2980b46b75a7e09cd8012e7f56fe3d4b85f4e64) — [feat: add PyTorch operator schema and codegen article](https://github.com/DapengFeng/dapengfeng.github.io/commit/a2980b46b75a7e09cd8012e7f56fe3d4b85f4e64)
 - `2026-10-07` `DapengFeng/dapengfeng.github.io` · [`f8566a2`](https://github.com/DapengFeng/dapengfeng.github.io/commit/f8566a206f365986f11a2360f1db2ef0d78c53ec) — [feat: refine site reading experience and consolidate authoring docs](https://github.com/DapengFeng/dapengfeng.github.io/commit/f8566a206f365986f11a2360f1db2ef0d78c53ec)
-- `2026-10-07` `DapengFeng/dapengfeng.github.io` · [`f894021`](https://github.com/DapengFeng/dapengfeng.github.io/commit/f894021edac0845d431123c22b2535574b6df225) — [feat: add PayPal support and floating article actions](https://github.com/DapengFeng/dapengfeng.github.io/commit/f894021edac0845d431123c22b2535574b6df225)
 
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->
