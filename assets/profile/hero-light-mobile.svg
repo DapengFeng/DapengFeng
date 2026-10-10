@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="430" viewBox="0 0 600 430" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">I'm Dapeng Feng.</title>
+  <desc id="description">A GitHub-style terminal introducing Dapeng Feng. Computer vision, robotics, and graphics. Ph.D. at Sun Yat-sen University, completed June 21, 2026. PhD merged. Questions still open.</desc>
+  <defs>
+    <clipPath id="terminal"><rect width="600" height="430" rx="10"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+    .cursor { animation: cursor 1.2s step-end infinite; }
+    @keyframes cursor { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <g clip-path="url(#terminal)">
+    <rect width="600" height="430" fill="#ffffff"/>
+    <path d="M0 0H600V50H0Z" fill="#f6f8fa"/>
+    <path d="M0 50H600" stroke="#d0d7de"/>
+    <g font-size="20">
+      <text x="28" y="32" fill="#57606a">dapeng@github:~/profile</text>
+      <text x="572" y="32" text-anchor="end" fill="#1a7f37">main</text>
+    </g>
+    <text x="28" y="100" font-size="23" fill="#1f2328"><tspan fill="#1a7f37">$</tspan> whoami</text>
+    <rect class="cursor" x="152" y="82" width="11" height="23" fill="#1a7f37" aria-hidden="true"/>
+    <text x="26" y="164" font-size="52" font-weight="500" letter-spacing="-1.5" fill="#1f2328">I'm Dapeng Feng.</text>
+    <text x="28" y="205" font-size="23" fill="#57606a">Computer vision / Robotics / Graphics</text>
+    <text x="28" y="261" font-size="23" fill="#1f2328"><tspan fill="#1a7f37">$</tspan> cat education.log</text>
+    <g font-size="24">
+      <text x="28" y="298" fill="#1a7f37">[merged]</text>
+      <text x="153" y="298" fill="#1f2328">Ph.D. · Sun Yat-sen University</text>
+      <text x="28" y="333" fill="#57606a">[date]</text>
+      <text x="153" y="333" fill="#1f2328">2026-06-21</text>
+    </g>
+    <text x="28" y="389" font-size="23" fill="#57606a">// PhD merged. Questions still open.</text>
+    <rect x=".5" y=".5" width="599" height="429" rx="9.5" stroke="#d0d7de"/>
+  </g>
+</svg>

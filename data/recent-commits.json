@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "user": "DapengFeng",
+  "display_timezone": "UTC+08:00",
+  "scan": {
+    "repository_limit": 20,
+    "commits_per_repository": 5,
+    "display_limit": 5,
+    "scope": "Public owned repositories, including forks; default branches only; profile repository excluded",
+    "ordering": "Author timestamp, newest first",
+    "filters": "Matching GitHub user authors only; bots and generated profile-artifact updates excluded"
+  },
+  "commits": [
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "c5b2b9589306e9e36a4c468d69676b0836625114",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/c5b2b9589306e9e36a4c468d69676b0836625114",
+      "title": "fix: make catalog browser checks resilient to new posts",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-09T00:24:21Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "32f0df07e80ab328c302a51701b8fa9351925175",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/32f0df07e80ab328c302a51701b8fa9351925175",
+      "title": "feat: add IceCube neutrino Nobel physics article",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-08T14:39:44Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "a2980b46b75a7e09cd8012e7f56fe3d4b85f4e64",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/a2980b46b75a7e09cd8012e7f56fe3d4b85f4e64",
+      "title": "feat: add PyTorch operator schema and codegen article",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-08T08:43:08Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "f8566a206f365986f11a2360f1db2ef0d78c53ec",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/f8566a206f365986f11a2360f1db2ef0d78c53ec",
+      "title": "feat: refine site reading experience and consolidate authoring docs",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-07T14:17:59Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "f894021edac0845d431123c22b2535574b6df225",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/f894021edac0845d431123c22b2535574b6df225",
+      "title": "feat: add PayPal support and floating article actions",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-07T08:43:21Z"
+    }
+  ]
+}
