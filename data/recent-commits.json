@@ -12,6 +12,16 @@
   },
   "commits": [
     {
+      "repository": "DapengFeng/genesis",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "22e0601b19736ae043bf11b556ccfc06c22a4e3f",
+      "url": "https://github.com/DapengFeng/genesis/commit/22e0601b19736ae043bf11b556ccfc06c22a4e3f",
+      "title": "chore: refine contribution templates and fix hook autoupdate",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-10T07:25:04Z"
+    },
+    {
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
@@ -50,16 +60,6 @@
       "title": "feat: refine site reading experience and consolidate authoring docs",
       "author": "DapengFeng",
       "authored_at": "2026-10-07T14:17:59Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "f894021edac0845d431123c22b2535574b6df225",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/f894021edac0845d431123c22b2535574b6df225",
-      "title": "feat: add PayPal support and floating article actions",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-07T08:43:21Z"
     }
   ]
 }
