@@ -1,0 +1,81 @@
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v6.0.0
+  hooks:
+  - id: check-ast
+  - id: check-docstring-first
+  - id: debug-statements
+  - id: check-executables-have-shebangs
+  - id: check-shebang-scripts-are-executable
+  - id: check-merge-conflict
+  - id: check-vcs-permalinks
+  - id: detect-private-key
+  - id: end-of-file-fixer
+  - id: fix-byte-order-marker
+  - id: mixed-line-ending
+  - id: trailing-whitespace
+  - id: check-yaml
+- repo: https://github.com/mrtazz/checkmake.git
+  rev: v0.3.0
+  hooks:
+  - id: checkmake
+- repo: https://github.com/pocc/pre-commit-hooks
+  rev: v1.3.5
+  hooks:
+  - id: clang-format
+    types_or: [c, c++, cuda]
+    args: [-i, --sort-includes, ]
+  - id: cppcheck
+    args: [--inline-suppr]
+  - id: cpplint
+- repo: https://github.com/BlankSpruce/gersemi
+  rev: 0.26.1
+  hooks:
+  - id: gersemi
+- repo: https://github.com/hadolint/hadolint
+  rev: v2.15.1
+  hooks:
+  - id: hadolint-docker
+  - id: hadolint
+- repo: https://github.com/astral-sh/ruff-pre-commit
+  rev: v0.16.10
+  hooks:
+  - id: ruff
+    args: ['--fix', '--exit-non-zero-on-fix']
+- repo: https://github.com/psf/black
+  rev: 26.10.0
+  hooks:
+  - id: black
+    args: ['--line-length=79']
+  - id: black-jupyter
+    args: ['--line-length=79']
+- repo: https://github.com/PyCQA/isort
+  rev: 9.0.2
+  hooks:
+    - id: isort
+- repo: https://github.com/PyCQA/docformatter
+  rev: v1.7.8
+  hooks:
+  - id: docformatter
+- repo: https://github.com/DanielNoord/pydocstringformatter
+  rev: v1.0.0
+  hooks:
+  - id: pydocstringformatter
+- repo: https://github.com/FlamingTempura/bibtex-tidy
+  rev: v1.14.0
+  hooks:
+  - id: bibtex-tidy
+    args: ['--curly', '--numeric', '--align=13', '--sort=-year,author',
+           '--duplicates=key', '--no-escape', '--sort-fields', '--modify',
+           '--remove-empty-fields', '--no-remove-dupe-fields', '--wrap=80']
+-   repo: https://github.com/doublify/pre-commit-rust
+    rev: v1.0
+    hooks:
+    - id: fmt
+    - id: cargo-check
+    - id: clippy
+- repo: https://github.com/compilerla/conventional-pre-commit
+  rev: v4.4.0
+  hooks:
+    - id: conventional-pre-commit
+      stages: [commit-msg]
