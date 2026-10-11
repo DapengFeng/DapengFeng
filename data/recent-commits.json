@@ -12,6 +12,16 @@
   },
   "commits": [
     {
+      "repository": "DapengFeng/Sophus",
+      "default_branch": "main",
+      "is_fork": true,
+      "sha": "67f22f3b1ac0e34c5689a9836ade0a472dc45a9b",
+      "url": "https://github.com/DapengFeng/Sophus/commit/67f22f3b1ac0e34c5689a9836ade0a472dc45a9b",
+      "title": "Add Eigen3 dependency to catkin package",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-11T12:16:28Z"
+    },
+    {
       "repository": "DapengFeng/genesis",
       "default_branch": "main",
       "is_fork": false,
@@ -50,16 +60,6 @@
       "title": "feat: add PyTorch operator schema and codegen article",
       "author": "DapengFeng",
       "authored_at": "2026-10-08T08:43:08Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "f8566a206f365986f11a2360f1db2ef0d78c53ec",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/f8566a206f365986f11a2360f1db2ef0d78c53ec",
-      "title": "feat: refine site reading experience and consolidate authoring docs",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-07T14:17:59Z"
     }
   ]
 }
