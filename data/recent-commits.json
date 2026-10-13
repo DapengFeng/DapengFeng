@@ -12,6 +12,16 @@
   },
   "commits": [
     {
+      "repository": "DapengFeng/wgpt-community",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "edd991ae58602c5ecadf8c4b679d3ea7e0cac76e",
+      "url": "https://github.com/DapengFeng/wgpt-community/commit/edd991ae58602c5ecadf8c4b679d3ea7e0cac76e",
+      "title": "Initial commit",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-13T02:36:14Z"
+    },
+    {
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
@@ -50,16 +60,6 @@
       "title": "fix: make catalog browser checks resilient to new posts",
       "author": "DapengFeng",
       "authored_at": "2026-10-09T00:24:21Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "32f0df07e80ab328c302a51701b8fa9351925175",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/32f0df07e80ab328c302a51701b8fa9351925175",
-      "title": "feat: add IceCube neutrino Nobel physics article",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-08T14:39:44Z"
     }
   ]
 }
