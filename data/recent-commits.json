@@ -15,6 +15,16 @@
       "repository": "DapengFeng/wgpt-community",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "41142bbaebeb03c621c8cc51c15c2c462814caeb",
+      "url": "https://github.com/DapengFeng/wgpt-community/commit/41142bbaebeb03c621c8cc51c15c2c462814caeb",
+      "title": "fix: require owner approval before collaborator invitations",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-13T10:35:17Z"
+    },
+    {
+      "repository": "DapengFeng/wgpt-community",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "5ec9ada2c084e594e830af9d8d129f4bbafd4615",
       "url": "https://github.com/DapengFeng/wgpt-community/commit/5ec9ada2c084e594e830af9d8d129f4bbafd4615",
       "title": "feat: add offline interactive continuity demos",
@@ -50,16 +60,6 @@
       "title": "feat: gate collaborator invitations on verified CLA signatures",
       "author": "DapengFeng",
       "authored_at": "2026-10-13T09:05:10Z"
-    },
-    {
-      "repository": "DapengFeng/wgpt-community",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "edd991ae58602c5ecadf8c4b679d3ea7e0cac76e",
-      "url": "https://github.com/DapengFeng/wgpt-community/commit/edd991ae58602c5ecadf8c4b679d3ea7e0cac76e",
-      "title": "Initial commit",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-13T02:36:14Z"
     }
   ]
 }
