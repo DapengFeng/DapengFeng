@@ -21,11 +21,11 @@ I build systems that help robots **perceive and reconstruct the world**, and too
 ### `$ git log --author=DapengFeng -5`
 
 <!--RECENT_COMMITS:START-->
+- `2026-10-13` `DapengFeng/wgpt-community` · [`263d348`](https://github.com/DapengFeng/wgpt-community/commit/263d348c4b1aa4171650542f83575c0e8c13c4fc) — [fix: grant CLA worker permission to comment on pull requests](https://github.com/DapengFeng/wgpt-community/commit/263d348c4b1aa4171650542f83575c0e8c13c4fc)
+- `2026-10-13` `DapengFeng/wgpt-community` · [`aa9bb4e`](https://github.com/DapengFeng/wgpt-community/commit/aa9bb4e04e06b9874db151cb364472014ff96df0) — [fix: conform personal invitations and diagnose CLA API failures](https://github.com/DapengFeng/wgpt-community/commit/aa9bb4e04e06b9874db151cb364472014ff96df0)
+- `2026-10-13` `DapengFeng/wgpt-community` · [`7c1f1d3`](https://github.com/DapengFeng/wgpt-community/commit/7c1f1d3ee8578563ed9f66e5b65ecd95734bb958) — [feat: gate collaborator invitations on verified CLA signatures](https://github.com/DapengFeng/wgpt-community/commit/7c1f1d3ee8578563ed9f66e5b65ecd95734bb958)
 - `2026-10-13` `DapengFeng/wgpt-community` · [`edd991a`](https://github.com/DapengFeng/wgpt-community/commit/edd991ae58602c5ecadf8c4b679d3ea7e0cac76e) — [Initial commit](https://github.com/DapengFeng/wgpt-community/commit/edd991ae58602c5ecadf8c4b679d3ea7e0cac76e)
 - `2026-10-12` `DapengFeng/dapengfeng.github.io` · [`89358ab`](https://github.com/DapengFeng/dapengfeng.github.io/commit/89358ab4c9994629d3bdf0c81f9f45972573a6fc) — [feat: add dense and sparse parallel library benchmarks](https://github.com/DapengFeng/dapengfeng.github.io/commit/89358ab4c9994629d3bdf0c81f9f45972573a6fc)
-- `2026-10-11` `DapengFeng/Sophus` · [`67f22f3`](https://github.com/DapengFeng/Sophus/commit/67f22f3b1ac0e34c5689a9836ade0a472dc45a9b) — [Add Eigen3 dependency to catkin package](https://github.com/DapengFeng/Sophus/commit/67f22f3b1ac0e34c5689a9836ade0a472dc45a9b)
-- `2026-10-10` `DapengFeng/genesis` · [`22e0601`](https://github.com/DapengFeng/genesis/commit/22e0601b19736ae043bf11b556ccfc06c22a4e3f) — [chore: refine contribution templates and fix hook autoupdate](https://github.com/DapengFeng/genesis/commit/22e0601b19736ae043bf11b556ccfc06c22a4e3f)
-- `2026-10-09` `DapengFeng/dapengfeng.github.io` · [`c5b2b95`](https://github.com/DapengFeng/dapengfeng.github.io/commit/c5b2b9589306e9e36a4c468d69676b0836625114) — [fix: make catalog browser checks resilient to new posts](https://github.com/DapengFeng/dapengfeng.github.io/commit/c5b2b9589306e9e36a4c468d69676b0836625114)
 
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->

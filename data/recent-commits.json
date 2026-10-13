@@ -15,6 +15,36 @@
       "repository": "DapengFeng/wgpt-community",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "263d348c4b1aa4171650542f83575c0e8c13c4fc",
+      "url": "https://github.com/DapengFeng/wgpt-community/commit/263d348c4b1aa4171650542f83575c0e8c13c4fc",
+      "title": "fix: grant CLA worker permission to comment on pull requests",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-13T09:14:52Z"
+    },
+    {
+      "repository": "DapengFeng/wgpt-community",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "aa9bb4e04e06b9874db151cb364472014ff96df0",
+      "url": "https://github.com/DapengFeng/wgpt-community/commit/aa9bb4e04e06b9874db151cb364472014ff96df0",
+      "title": "fix: conform personal invitations and diagnose CLA API failures",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-13T09:13:46Z"
+    },
+    {
+      "repository": "DapengFeng/wgpt-community",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "7c1f1d3ee8578563ed9f66e5b65ecd95734bb958",
+      "url": "https://github.com/DapengFeng/wgpt-community/commit/7c1f1d3ee8578563ed9f66e5b65ecd95734bb958",
+      "title": "feat: gate collaborator invitations on verified CLA signatures",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-13T09:05:10Z"
+    },
+    {
+      "repository": "DapengFeng/wgpt-community",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "edd991ae58602c5ecadf8c4b679d3ea7e0cac76e",
       "url": "https://github.com/DapengFeng/wgpt-community/commit/edd991ae58602c5ecadf8c4b679d3ea7e0cac76e",
       "title": "Initial commit",
@@ -30,36 +60,6 @@
       "title": "feat: add dense and sparse parallel library benchmarks",
       "author": "DapengFeng",
       "authored_at": "2026-10-12T12:51:35Z"
-    },
-    {
-      "repository": "DapengFeng/Sophus",
-      "default_branch": "main",
-      "is_fork": true,
-      "sha": "67f22f3b1ac0e34c5689a9836ade0a472dc45a9b",
-      "url": "https://github.com/DapengFeng/Sophus/commit/67f22f3b1ac0e34c5689a9836ade0a472dc45a9b",
-      "title": "Add Eigen3 dependency to catkin package",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-11T12:16:28Z"
-    },
-    {
-      "repository": "DapengFeng/genesis",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "22e0601b19736ae043bf11b556ccfc06c22a4e3f",
-      "url": "https://github.com/DapengFeng/genesis/commit/22e0601b19736ae043bf11b556ccfc06c22a4e3f",
-      "title": "chore: refine contribution templates and fix hook autoupdate",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-10T07:25:04Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "c5b2b9589306e9e36a4c468d69676b0836625114",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/c5b2b9589306e9e36a4c468d69676b0836625114",
-      "title": "fix: make catalog browser checks resilient to new posts",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-09T00:24:21Z"
     }
   ]
 }
