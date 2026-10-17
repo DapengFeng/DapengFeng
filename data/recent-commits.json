@@ -12,6 +12,26 @@
   },
   "commits": [
     {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "37fda21d3bb4501efc932dac660c863660dd54aa",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/37fda21d3bb4501efc932dac660c863660dd54aa",
+      "title": "fix: wait for updated search results in browser checks",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-17T14:13:16Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "9975cbcb9974f4340c44f3ed6a8a907bbfda34c9",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/9975cbcb9974f4340c44f3ed6a8a907bbfda34c9",
+      "title": "feat: add Roadster physics article with force and power models",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-17T13:58:58Z"
+    },
+    {
       "repository": "DapengFeng/wgpt-community",
       "default_branch": "main",
       "is_fork": false,
@@ -40,26 +60,6 @@
       "title": "feat: add offline interactive continuity demos",
       "author": "DapengFeng",
       "authored_at": "2026-10-13T09:45:58Z"
-    },
-    {
-      "repository": "DapengFeng/wgpt-community",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "263d348c4b1aa4171650542f83575c0e8c13c4fc",
-      "url": "https://github.com/DapengFeng/wgpt-community/commit/263d348c4b1aa4171650542f83575c0e8c13c4fc",
-      "title": "fix: grant CLA worker permission to comment on pull requests",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-13T09:14:52Z"
-    },
-    {
-      "repository": "DapengFeng/wgpt-community",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "aa9bb4e04e06b9874db151cb364472014ff96df0",
-      "url": "https://github.com/DapengFeng/wgpt-community/commit/aa9bb4e04e06b9874db151cb364472014ff96df0",
-      "title": "fix: conform personal invitations and diagnose CLA API failures",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-13T09:13:46Z"
     }
   ]
 }

@@ -21,11 +21,11 @@ I build systems that help robots **perceive and reconstruct the world**, and too
 ### `$ git log --author=DapengFeng -5`
 
 <!--RECENT_COMMITS:START-->
+- `2026-10-17` `DapengFeng/dapengfeng.github.io` · [`37fda21`](https://github.com/DapengFeng/dapengfeng.github.io/commit/37fda21d3bb4501efc932dac660c863660dd54aa) — [fix: wait for updated search results in browser checks](https://github.com/DapengFeng/dapengfeng.github.io/commit/37fda21d3bb4501efc932dac660c863660dd54aa)
+- `2026-10-17` `DapengFeng/dapengfeng.github.io` · [`9975cbc`](https://github.com/DapengFeng/dapengfeng.github.io/commit/9975cbcb9974f4340c44f3ed6a8a907bbfda34c9) — [feat: add Roadster physics article with force and power models](https://github.com/DapengFeng/dapengfeng.github.io/commit/9975cbcb9974f4340c44f3ed6a8a907bbfda34c9)
 - `2026-10-13` `DapengFeng/wgpt-community` · [`268f1cd`](https://github.com/DapengFeng/wgpt-community/commit/268f1cd9df55a0ce04f1f7530c8b06d3dce51e49) — [feat: publish recorded offline demo animations](https://github.com/DapengFeng/wgpt-community/commit/268f1cd9df55a0ce04f1f7530c8b06d3dce51e49)
 - `2026-10-13` `DapengFeng/wgpt-community` · [`41142bb`](https://github.com/DapengFeng/wgpt-community/commit/41142bbaebeb03c621c8cc51c15c2c462814caeb) — [fix: require owner approval before collaborator invitations](https://github.com/DapengFeng/wgpt-community/commit/41142bbaebeb03c621c8cc51c15c2c462814caeb)
 - `2026-10-13` `DapengFeng/wgpt-community` · [`5ec9ada`](https://github.com/DapengFeng/wgpt-community/commit/5ec9ada2c084e594e830af9d8d129f4bbafd4615) — [feat: add offline interactive continuity demos](https://github.com/DapengFeng/wgpt-community/commit/5ec9ada2c084e594e830af9d8d129f4bbafd4615)
-- `2026-10-13` `DapengFeng/wgpt-community` · [`263d348`](https://github.com/DapengFeng/wgpt-community/commit/263d348c4b1aa4171650542f83575c0e8c13c4fc) — [fix: grant CLA worker permission to comment on pull requests](https://github.com/DapengFeng/wgpt-community/commit/263d348c4b1aa4171650542f83575c0e8c13c4fc)
-- `2026-10-13` `DapengFeng/wgpt-community` · [`aa9bb4e`](https://github.com/DapengFeng/wgpt-community/commit/aa9bb4e04e06b9874db151cb364472014ff96df0) — [fix: conform personal invitations and diagnose CLA API failures](https://github.com/DapengFeng/wgpt-community/commit/aa9bb4e04e06b9874db151cb364472014ff96df0)
 
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->
