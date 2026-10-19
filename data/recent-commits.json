@@ -15,6 +15,16 @@
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "5347b21578f3bf06923f7bd93f041e721878c2e2",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/5347b21578f3bf06923f7bd93f041e721878c2e2",
+      "title": "feat: add Roadster tyre load and force allocation analysis",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-19T02:17:50Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "dd7b8c36eb8d0d81a5e95c1a44b0025567a273ca",
       "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/dd7b8c36eb8d0d81a5e95c1a44b0025567a273ca",
       "title": "feat: add Roadster engineering series and drivetrain tradeoff analysis",
@@ -50,16 +60,6 @@
       "title": "feat: publish recorded offline demo animations",
       "author": "DapengFeng",
       "authored_at": "2026-10-13T12:50:56Z"
-    },
-    {
-      "repository": "DapengFeng/wgpt-community",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "41142bbaebeb03c621c8cc51c15c2c462814caeb",
-      "url": "https://github.com/DapengFeng/wgpt-community/commit/41142bbaebeb03c621c8cc51c15c2c462814caeb",
-      "title": "fix: require owner approval before collaborator invitations",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-13T10:35:17Z"
     }
   ]
 }
