@@ -21,11 +21,11 @@
 ### `$ git log --author=DapengFeng -5`
 
 <!--RECENT_COMMITS:START-->
+- `2026-10-19` `DapengFeng/dapengfeng.github.io` · [`6d26cbd`](https://github.com/DapengFeng/dapengfeng.github.io/commit/6d26cbd94f5cc70d1807c37c95b82112a2ff92ab) — [feat: add local LLM hardware comparison and deployment guide](https://github.com/DapengFeng/dapengfeng.github.io/commit/6d26cbd94f5cc70d1807c37c95b82112a2ff92ab)
 - `2026-10-19` `DapengFeng/dapengfeng.github.io` · [`5347b21`](https://github.com/DapengFeng/dapengfeng.github.io/commit/5347b21578f3bf06923f7bd93f041e721878c2e2) — [feat: add Roadster tyre load and force allocation analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/5347b21578f3bf06923f7bd93f041e721878c2e2)
 - `2026-10-18` `DapengFeng/dapengfeng.github.io` · [`dd7b8c3`](https://github.com/DapengFeng/dapengfeng.github.io/commit/dd7b8c36eb8d0d81a5e95c1a44b0025567a273ca) — [feat: add Roadster engineering series and drivetrain tradeoff analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/dd7b8c36eb8d0d81a5e95c1a44b0025567a273ca)
 - `2026-10-17` `DapengFeng/dapengfeng.github.io` · [`37fda21`](https://github.com/DapengFeng/dapengfeng.github.io/commit/37fda21d3bb4501efc932dac660c863660dd54aa) — [fix: wait for updated search results in browser checks](https://github.com/DapengFeng/dapengfeng.github.io/commit/37fda21d3bb4501efc932dac660c863660dd54aa)
 - `2026-10-17` `DapengFeng/dapengfeng.github.io` · [`9975cbc`](https://github.com/DapengFeng/dapengfeng.github.io/commit/9975cbcb9974f4340c44f3ed6a8a907bbfda34c9) — [feat: add Roadster physics article with force and power models](https://github.com/DapengFeng/dapengfeng.github.io/commit/9975cbcb9974f4340c44f3ed6a8a907bbfda34c9)
-- `2026-10-13` `DapengFeng/wgpt-community` · [`268f1cd`](https://github.com/DapengFeng/wgpt-community/commit/268f1cd9df55a0ce04f1f7530c8b06d3dce51e49) — [feat: publish recorded offline demo animations](https://github.com/DapengFeng/wgpt-community/commit/268f1cd9df55a0ce04f1f7530c8b06d3dce51e49)
 
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->
