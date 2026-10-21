@@ -7,10 +7,10 @@ verbatim in either language.
 
 ## Refreshing recent commits
 
-`.github/workflows/recent-commits.yml` refreshes the activity log hourly, at minute
-17. It also runs when its source files change on `main`, or when started manually
-under **Actions → Recent public commits → Run workflow**. The workflow must be on
-the default branch before its schedule becomes active.
+`.github/workflows/recent-commits.yml` refreshes the activity log once daily at
+08:17 Asia/Shanghai (00:17 UTC). Pushes do not trigger additional refreshes. It can
+also be started manually under **Actions → Recent public commits → Run workflow**.
+The workflow must be on the default branch before its schedule becomes active.
 
 The updater checks the 20 most recently pushed eligible public repositories owned
 by `DapengFeng`, including forks. It reads up to five commits per default branch
@@ -25,7 +25,7 @@ Only the marked activity blocks in both READMEs and `data/recent-commits.json` a
 updated. An API or validation failure leaves the previous snapshot intact. A run
 with unchanged activity does not create a commit. Dates use UTC+08:00.
 
-GitHub schedules can be delayed, so this is an hourly refresh rather than an
+GitHub schedules can be delayed, so this is a daily refresh rather than an
 instant cross-repository webhook. See [GitHub's schedule documentation](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule).
 
 To refresh locally, with an optional `GITHUB_TOKEN` for higher API rate limits:

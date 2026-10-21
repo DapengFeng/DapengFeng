@@ -30,7 +30,7 @@
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->
 
-<sub>计划每小时自动刷新。</sub>
+<sub>计划每天自动刷新一次。</sub>
 
 ### `$ ls projects/`
 
