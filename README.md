@@ -30,7 +30,7 @@ I build systems that help robots **perceive and reconstruct the world**, and too
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->
 
-<sub>Scheduled refresh: daily.</sub>
+<sub>Scheduled refresh: hourly.</sub>
 
 ### `$ ls projects/`
 

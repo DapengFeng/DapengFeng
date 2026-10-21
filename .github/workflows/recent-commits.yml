@@ -2,8 +2,8 @@ name: Recent public commits
 
 on:
   schedule:
-    # Daily at 08:17 Asia/Shanghai (00:17 UTC).
-    - cron: "17 0 * * *"
+    # Hourly at minute 17.
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
