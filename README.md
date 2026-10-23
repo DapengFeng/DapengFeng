@@ -21,11 +21,11 @@ I build systems that help robots **perceive and reconstruct the world**, and too
 ### `$ git log --author=DapengFeng -5`
 
 <!--RECENT_COMMITS:START-->
+- `2026-10-23` `DapengFeng/dapengfeng.github.io` · [`9a3b137`](https://github.com/DapengFeng/dapengfeng.github.io/commit/9a3b13748ab1def8254966d6b62c7dbb102372b6) — [feat: add model\-agnostic LLM deployment economics calculator](https://github.com/DapengFeng/dapengfeng.github.io/commit/9a3b13748ab1def8254966d6b62c7dbb102372b6)
 - `2026-10-22` `DapengFeng/Universal` · [`0daad7e`](https://github.com/DapengFeng/Universal/commit/0daad7e3500067cf419a5724c8e39bddfd1c4654) — [Initial commit](https://github.com/DapengFeng/Universal/commit/0daad7e3500067cf419a5724c8e39bddfd1c4654)
+- `2026-10-20` `DapengFeng/dapengfeng.github.io` · [`c005fcf`](https://github.com/DapengFeng/dapengfeng.github.io/commit/c005fcf67e905d7e4118071e2ff3b37f9c22eb37) — [feat: add Roadster cold\-gas thrust and impulse analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/c005fcf67e905d7e4118071e2ff3b37f9c22eb37)
 - `2026-10-19` `DapengFeng/dapengfeng.github.io` · [`6d26cbd`](https://github.com/DapengFeng/dapengfeng.github.io/commit/6d26cbd94f5cc70d1807c37c95b82112a2ff92ab) — [feat: add local LLM hardware comparison and deployment guide](https://github.com/DapengFeng/dapengfeng.github.io/commit/6d26cbd94f5cc70d1807c37c95b82112a2ff92ab)
 - `2026-10-19` `DapengFeng/dapengfeng.github.io` · [`5347b21`](https://github.com/DapengFeng/dapengfeng.github.io/commit/5347b21578f3bf06923f7bd93f041e721878c2e2) — [feat: add Roadster tyre load and force allocation analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/5347b21578f3bf06923f7bd93f041e721878c2e2)
-- `2026-10-18` `DapengFeng/dapengfeng.github.io` · [`dd7b8c3`](https://github.com/DapengFeng/dapengfeng.github.io/commit/dd7b8c36eb8d0d81a5e95c1a44b0025567a273ca) — [feat: add Roadster engineering series and drivetrain tradeoff analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/dd7b8c36eb8d0d81a5e95c1a44b0025567a273ca)
-- `2026-10-17` `DapengFeng/dapengfeng.github.io` · [`37fda21`](https://github.com/DapengFeng/dapengfeng.github.io/commit/37fda21d3bb4501efc932dac660c863660dd54aa) — [fix: wait for updated search results in browser checks](https://github.com/DapengFeng/dapengfeng.github.io/commit/37fda21d3bb4501efc932dac660c863660dd54aa)
 
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->
