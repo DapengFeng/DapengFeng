@@ -15,6 +15,16 @@
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "c1c90bdcc1a315a5dffed96722625fa4fa8b2e07",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/c1c90bdcc1a315a5dffed96722625fa4fa8b2e07",
+      "title": "feat: add Roadster force allocation and yaw control analysis",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-23T10:16:01Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "9a3b13748ab1def8254966d6b62c7dbb102372b6",
       "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/9a3b13748ab1def8254966d6b62c7dbb102372b6",
       "title": "feat: add model-agnostic LLM deployment economics calculator",
@@ -50,16 +60,6 @@
       "title": "feat: add local LLM hardware comparison and deployment guide",
       "author": "DapengFeng",
       "authored_at": "2026-10-19T09:08:00Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "5347b21578f3bf06923f7bd93f041e721878c2e2",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/5347b21578f3bf06923f7bd93f041e721878c2e2",
-      "title": "feat: add Roadster tyre load and force allocation analysis",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-19T02:17:50Z"
     }
   ]
 }
