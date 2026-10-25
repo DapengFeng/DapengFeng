@@ -21,11 +21,11 @@
 ### `$ git log --author=DapengFeng -5`
 
 <!--RECENT_COMMITS:START-->
+- `2026-10-25` `DapengFeng/dapengfeng.github.io` · [`c02365b`](https://github.com/DapengFeng/dapengfeng.github.io/commit/c02365b2119fa7580ba1af375c0aae54a68723cf) — [feat: add Roadster thermal management and repeatability analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/c02365b2119fa7580ba1af375c0aae54a68723cf)
 - `2026-10-23` `DapengFeng/dapengfeng.github.io` · [`c1c90bd`](https://github.com/DapengFeng/dapengfeng.github.io/commit/c1c90bdcc1a315a5dffed96722625fa4fa8b2e07) — [feat: add Roadster force allocation and yaw control analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/c1c90bdcc1a315a5dffed96722625fa4fa8b2e07)
 - `2026-10-23` `DapengFeng/dapengfeng.github.io` · [`9a3b137`](https://github.com/DapengFeng/dapengfeng.github.io/commit/9a3b13748ab1def8254966d6b62c7dbb102372b6) — [feat: add model\-agnostic LLM deployment economics calculator](https://github.com/DapengFeng/dapengfeng.github.io/commit/9a3b13748ab1def8254966d6b62c7dbb102372b6)
 - `2026-10-22` `DapengFeng/Universal` · [`0daad7e`](https://github.com/DapengFeng/Universal/commit/0daad7e3500067cf419a5724c8e39bddfd1c4654) — [Initial commit](https://github.com/DapengFeng/Universal/commit/0daad7e3500067cf419a5724c8e39bddfd1c4654)
 - `2026-10-20` `DapengFeng/dapengfeng.github.io` · [`c005fcf`](https://github.com/DapengFeng/dapengfeng.github.io/commit/c005fcf67e905d7e4118071e2ff3b37f9c22eb37) — [feat: add Roadster cold\-gas thrust and impulse analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/c005fcf67e905d7e4118071e2ff3b37f9c22eb37)
-- `2026-10-19` `DapengFeng/dapengfeng.github.io` · [`6d26cbd`](https://github.com/DapengFeng/dapengfeng.github.io/commit/6d26cbd94f5cc70d1807c37c95b82112a2ff92ab) — [feat: add local LLM hardware comparison and deployment guide](https://github.com/DapengFeng/dapengfeng.github.io/commit/6d26cbd94f5cc70d1807c37c95b82112a2ff92ab)
 
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->
