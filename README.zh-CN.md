@@ -21,11 +21,11 @@
 ### `$ git log --author=DapengFeng -5`
 
 <!--RECENT_COMMITS:START-->
+- `2026-10-27` `DapengFeng/dapengfeng.github.io` · [`ba3fd3a`](https://github.com/DapengFeng/dapengfeng.github.io/commit/ba3fd3a1c38c92f00612a4fdd27ac847f1a181fd) — [feat: explain Smart Money Concepts through financial economics](https://github.com/DapengFeng/dapengfeng.github.io/commit/ba3fd3a1c38c92f00612a4fdd27ac847f1a181fd)
 - `2026-10-26` `DapengFeng/dapengfeng.github.io` · [`45761e9`](https://github.com/DapengFeng/dapengfeng.github.io/commit/45761e92b204d905e490ce6daeba3dc57120e2da) — [feat: add Kronos quantitative finance research analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/45761e92b204d905e490ce6daeba3dc57120e2da)
 - `2026-10-26` `DapengFeng/universe` · [`e5d8cfa`](https://github.com/DapengFeng/universe/commit/e5d8cfa9f0239e615c3cbf8aecea6cf6ec926813) — [Initial commit](https://github.com/DapengFeng/universe/commit/e5d8cfa9f0239e615c3cbf8aecea6cf6ec926813)
 - `2026-10-25` `DapengFeng/dapengfeng.github.io` · [`c02365b`](https://github.com/DapengFeng/dapengfeng.github.io/commit/c02365b2119fa7580ba1af375c0aae54a68723cf) — [feat: add Roadster thermal management and repeatability analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/c02365b2119fa7580ba1af375c0aae54a68723cf)
 - `2026-10-23` `DapengFeng/dapengfeng.github.io` · [`c1c90bd`](https://github.com/DapengFeng/dapengfeng.github.io/commit/c1c90bdcc1a315a5dffed96722625fa4fa8b2e07) — [feat: add Roadster force allocation and yaw control analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/c1c90bdcc1a315a5dffed96722625fa4fa8b2e07)
-- `2026-10-23` `DapengFeng/dapengfeng.github.io` · [`9a3b137`](https://github.com/DapengFeng/dapengfeng.github.io/commit/9a3b13748ab1def8254966d6b62c7dbb102372b6) — [feat: add model\-agnostic LLM deployment economics calculator](https://github.com/DapengFeng/dapengfeng.github.io/commit/9a3b13748ab1def8254966d6b62c7dbb102372b6)
 
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->

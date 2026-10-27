@@ -15,6 +15,16 @@
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "ba3fd3a1c38c92f00612a4fdd27ac847f1a181fd",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/ba3fd3a1c38c92f00612a4fdd27ac847f1a181fd",
+      "title": "feat: explain Smart Money Concepts through financial economics",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-27T12:15:28Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "45761e92b204d905e490ce6daeba3dc57120e2da",
       "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/45761e92b204d905e490ce6daeba3dc57120e2da",
       "title": "feat: add Kronos quantitative finance research analysis",
@@ -50,16 +60,6 @@
       "title": "feat: add Roadster force allocation and yaw control analysis",
       "author": "DapengFeng",
       "authored_at": "2026-10-23T10:16:01Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "9a3b13748ab1def8254966d6b62c7dbb102372b6",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/9a3b13748ab1def8254966d6b62c7dbb102372b6",
-      "title": "feat: add model-agnostic LLM deployment economics calculator",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-23T08:38:10Z"
     }
   ]
 }
