@@ -15,6 +15,16 @@
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "43d305278fc52d1afd626f551282e758e5152023",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/43d305278fc52d1afd626f551282e758e5152023",
+      "title": "fix: restore spacing after financial statement captions",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-30T15:34:08Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "487ba00f8efd4299d4cf548c3b7ea1c75c4bd722",
       "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/487ba00f8efd4299d4cf548c3b7ea1c75c4bd722",
       "title": "feat: add seven-part financial statements series with Buffett and Munger",
@@ -50,16 +60,6 @@
       "title": "Initial commit",
       "author": "DapengFeng",
       "authored_at": "2026-10-26T08:36:42Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "c02365b2119fa7580ba1af375c0aae54a68723cf",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/c02365b2119fa7580ba1af375c0aae54a68723cf",
-      "title": "feat: add Roadster thermal management and repeatability analysis",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-25T02:05:56Z"
     }
   ]
 }

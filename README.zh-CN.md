@@ -21,11 +21,11 @@
 ### `$ git log --author=DapengFeng -5`
 
 <!--RECENT_COMMITS:START-->
+- `2026-10-30` `DapengFeng/dapengfeng.github.io` · [`43d3052`](https://github.com/DapengFeng/dapengfeng.github.io/commit/43d305278fc52d1afd626f551282e758e5152023) — [fix: restore spacing after financial statement captions](https://github.com/DapengFeng/dapengfeng.github.io/commit/43d305278fc52d1afd626f551282e758e5152023)
 - `2026-10-30` `DapengFeng/dapengfeng.github.io` · [`487ba00`](https://github.com/DapengFeng/dapengfeng.github.io/commit/487ba00f8efd4299d4cf548c3b7ea1c75c4bd722) — [feat: add seven\-part financial statements series with Buffett and Munger](https://github.com/DapengFeng/dapengfeng.github.io/commit/487ba00f8efd4299d4cf548c3b7ea1c75c4bd722)
 - `2026-10-27` `DapengFeng/dapengfeng.github.io` · [`ba3fd3a`](https://github.com/DapengFeng/dapengfeng.github.io/commit/ba3fd3a1c38c92f00612a4fdd27ac847f1a181fd) — [feat: explain Smart Money Concepts through financial economics](https://github.com/DapengFeng/dapengfeng.github.io/commit/ba3fd3a1c38c92f00612a4fdd27ac847f1a181fd)
 - `2026-10-26` `DapengFeng/dapengfeng.github.io` · [`45761e9`](https://github.com/DapengFeng/dapengfeng.github.io/commit/45761e92b204d905e490ce6daeba3dc57120e2da) — [feat: add Kronos quantitative finance research analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/45761e92b204d905e490ce6daeba3dc57120e2da)
 - `2026-10-26` `DapengFeng/universe` · [`e5d8cfa`](https://github.com/DapengFeng/universe/commit/e5d8cfa9f0239e615c3cbf8aecea6cf6ec926813) — [Initial commit](https://github.com/DapengFeng/universe/commit/e5d8cfa9f0239e615c3cbf8aecea6cf6ec926813)
-- `2026-10-25` `DapengFeng/dapengfeng.github.io` · [`c02365b`](https://github.com/DapengFeng/dapengfeng.github.io/commit/c02365b2119fa7580ba1af375c0aae54a68723cf) — [feat: add Roadster thermal management and repeatability analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/c02365b2119fa7580ba1af375c0aae54a68723cf)
 
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->
