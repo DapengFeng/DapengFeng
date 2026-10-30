@@ -15,6 +15,16 @@
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "487ba00f8efd4299d4cf548c3b7ea1c75c4bd722",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/487ba00f8efd4299d4cf548c3b7ea1c75c4bd722",
+      "title": "feat: add seven-part financial statements series with Buffett and Munger",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-30T15:20:05Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "ba3fd3a1c38c92f00612a4fdd27ac847f1a181fd",
       "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/ba3fd3a1c38c92f00612a4fdd27ac847f1a181fd",
       "title": "feat: explain Smart Money Concepts through financial economics",
@@ -50,16 +60,6 @@
       "title": "feat: add Roadster thermal management and repeatability analysis",
       "author": "DapengFeng",
       "authored_at": "2026-10-25T02:05:56Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "c1c90bdcc1a315a5dffed96722625fa4fa8b2e07",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/c1c90bdcc1a315a5dffed96722625fa4fa8b2e07",
-      "title": "feat: add Roadster force allocation and yaw control analysis",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-23T10:16:01Z"
     }
   ]
 }
