@@ -15,6 +15,16 @@
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "18723e52bd839e51dd7e3d531d73c381fc88ac8d",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/18723e52bd839e51dd7e3d531d73c381fc88ac8d",
+      "title": "fix: polish financial statement series and simplify reading entry points",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-31T04:23:07Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "43d305278fc52d1afd626f551282e758e5152023",
       "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/43d305278fc52d1afd626f551282e758e5152023",
       "title": "fix: restore spacing after financial statement captions",
@@ -50,16 +60,6 @@
       "title": "feat: add Kronos quantitative finance research analysis",
       "author": "DapengFeng",
       "authored_at": "2026-10-26T09:17:23Z"
-    },
-    {
-      "repository": "DapengFeng/universe",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "e5d8cfa9f0239e615c3cbf8aecea6cf6ec926813",
-      "url": "https://github.com/DapengFeng/universe/commit/e5d8cfa9f0239e615c3cbf8aecea6cf6ec926813",
-      "title": "Initial commit",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-26T08:36:42Z"
     }
   ]
 }
