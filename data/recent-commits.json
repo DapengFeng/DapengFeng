@@ -15,6 +15,16 @@
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "481ed8f56e4c544f97a1f2c6f2b7bc518af727e3",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/481ed8f56e4c544f97a1f2c6f2b7bc518af727e3",
+      "title": "feat: add insurer case studies and comparative financial analysis",
+      "author": "DapengFeng",
+      "authored_at": "2026-10-31T12:36:16Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "18723e52bd839e51dd7e3d531d73c381fc88ac8d",
       "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/18723e52bd839e51dd7e3d531d73c381fc88ac8d",
       "title": "fix: polish financial statement series and simplify reading entry points",
@@ -50,16 +60,6 @@
       "title": "feat: explain Smart Money Concepts through financial economics",
       "author": "DapengFeng",
       "authored_at": "2026-10-27T12:15:28Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "45761e92b204d905e490ce6daeba3dc57120e2da",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/45761e92b204d905e490ce6daeba3dc57120e2da",
-      "title": "feat: add Kronos quantitative finance research analysis",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-26T09:17:23Z"
     }
   ]
 }
