@@ -12,6 +12,16 @@
   },
   "commits": [
     {
+      "repository": "DapengFeng/N3",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "7807f63e975a1c7624bc79ff362f55abb434dcfa",
+      "url": "https://github.com/DapengFeng/N3/commit/7807f63e975a1c7624bc79ff362f55abb434dcfa",
+      "title": "Initial commit",
+      "author": "DapengFeng",
+      "authored_at": "2026-11-02T13:16:03Z"
+    },
+    {
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
@@ -50,16 +60,6 @@
       "title": "feat: add seven-part financial statements series with Buffett and Munger",
       "author": "DapengFeng",
       "authored_at": "2026-10-30T15:20:05Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "ba3fd3a1c38c92f00612a4fdd27ac847f1a181fd",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/ba3fd3a1c38c92f00612a4fdd27ac847f1a181fd",
-      "title": "feat: explain Smart Money Concepts through financial economics",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-27T12:15:28Z"
     }
   ]
 }
