@@ -15,6 +15,16 @@
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "7b84ee2e090874fc17d8c1ae6f92e7bb8ef69efc",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/7b84ee2e090874fc17d8c1ae6f92e7bb8ef69efc",
+      "title": "feat: expand futures arbitrage examples and funding analysis",
+      "author": "DapengFeng",
+      "authored_at": "2026-11-07T01:59:09Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "d32ef1a613d974754a4ba80d43577c1cdb0b7437",
       "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/d32ef1a613d974754a4ba80d43577c1cdb0b7437",
       "title": "feat: add classical Chinese and English typography",
@@ -50,16 +60,6 @@
       "title": "fix: clarify financial statements part one prose",
       "author": "DapengFeng",
       "authored_at": "2026-11-06T12:27:08Z"
-    },
-    {
-      "repository": "DapengFeng/N3",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "7807f63e975a1c7624bc79ff362f55abb434dcfa",
-      "url": "https://github.com/DapengFeng/N3/commit/7807f63e975a1c7624bc79ff362f55abb434dcfa",
-      "title": "Initial commit",
-      "author": "DapengFeng",
-      "authored_at": "2026-11-02T13:16:03Z"
     }
   ]
 }
