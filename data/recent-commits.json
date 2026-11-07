@@ -15,6 +15,36 @@
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "d32ef1a613d974754a4ba80d43577c1cdb0b7437",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/d32ef1a613d974754a4ba80d43577c1cdb0b7437",
+      "title": "feat: add classical Chinese and English typography",
+      "author": "DapengFeng",
+      "authored_at": "2026-11-07T00:09:13Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "c988376d55077b11c26e3ad2b86f829cf5f07426",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/c988376d55077b11c26e3ad2b86f829cf5f07426",
+      "title": "feat: automate daily mathematics inventory reminders",
+      "author": "DapengFeng",
+      "authored_at": "2026-11-07T00:08:52Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "35168d89e9bdfcad88e63bc8fba544e622316dc0",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/35168d89e9bdfcad88e63bc8fba544e622316dc0",
+      "title": "feat: add futures guide and replenish daily mathematics",
+      "author": "DapengFeng",
+      "authored_at": "2026-11-06T15:49:15Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "c872e3f9011c91c313d4e7d08fa9727e834b6563",
       "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/c872e3f9011c91c313d4e7d08fa9727e834b6563",
       "title": "fix: clarify financial statements part one prose",
@@ -30,36 +60,6 @@
       "title": "Initial commit",
       "author": "DapengFeng",
       "authored_at": "2026-11-02T13:16:03Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "481ed8f56e4c544f97a1f2c6f2b7bc518af727e3",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/481ed8f56e4c544f97a1f2c6f2b7bc518af727e3",
-      "title": "feat: add insurer case studies and comparative financial analysis",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-31T12:36:16Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "18723e52bd839e51dd7e3d531d73c381fc88ac8d",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/18723e52bd839e51dd7e3d531d73c381fc88ac8d",
-      "title": "fix: polish financial statement series and simplify reading entry points",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-31T04:23:07Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "43d305278fc52d1afd626f551282e758e5152023",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/43d305278fc52d1afd626f551282e758e5152023",
-      "title": "fix: restore spacing after financial statement captions",
-      "author": "DapengFeng",
-      "authored_at": "2026-10-30T15:34:08Z"
     }
   ]
 }

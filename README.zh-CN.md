@@ -21,11 +21,11 @@
 ### `$ git log --author=DapengFeng -5`
 
 <!--RECENT_COMMITS:START-->
+- `2026-11-07` `DapengFeng/dapengfeng.github.io` · [`d32ef1a`](https://github.com/DapengFeng/dapengfeng.github.io/commit/d32ef1a613d974754a4ba80d43577c1cdb0b7437) — [feat: add classical Chinese and English typography](https://github.com/DapengFeng/dapengfeng.github.io/commit/d32ef1a613d974754a4ba80d43577c1cdb0b7437)
+- `2026-11-07` `DapengFeng/dapengfeng.github.io` · [`c988376`](https://github.com/DapengFeng/dapengfeng.github.io/commit/c988376d55077b11c26e3ad2b86f829cf5f07426) — [feat: automate daily mathematics inventory reminders](https://github.com/DapengFeng/dapengfeng.github.io/commit/c988376d55077b11c26e3ad2b86f829cf5f07426)
+- `2026-11-06` `DapengFeng/dapengfeng.github.io` · [`35168d8`](https://github.com/DapengFeng/dapengfeng.github.io/commit/35168d89e9bdfcad88e63bc8fba544e622316dc0) — [feat: add futures guide and replenish daily mathematics](https://github.com/DapengFeng/dapengfeng.github.io/commit/35168d89e9bdfcad88e63bc8fba544e622316dc0)
 - `2026-11-06` `DapengFeng/dapengfeng.github.io` · [`c872e3f`](https://github.com/DapengFeng/dapengfeng.github.io/commit/c872e3f9011c91c313d4e7d08fa9727e834b6563) — [fix: clarify financial statements part one prose](https://github.com/DapengFeng/dapengfeng.github.io/commit/c872e3f9011c91c313d4e7d08fa9727e834b6563)
 - `2026-11-02` `DapengFeng/N3` · [`7807f63`](https://github.com/DapengFeng/N3/commit/7807f63e975a1c7624bc79ff362f55abb434dcfa) — [Initial commit](https://github.com/DapengFeng/N3/commit/7807f63e975a1c7624bc79ff362f55abb434dcfa)
-- `2026-10-31` `DapengFeng/dapengfeng.github.io` · [`481ed8f`](https://github.com/DapengFeng/dapengfeng.github.io/commit/481ed8f56e4c544f97a1f2c6f2b7bc518af727e3) — [feat: add insurer case studies and comparative financial analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/481ed8f56e4c544f97a1f2c6f2b7bc518af727e3)
-- `2026-10-31` `DapengFeng/dapengfeng.github.io` · [`18723e5`](https://github.com/DapengFeng/dapengfeng.github.io/commit/18723e52bd839e51dd7e3d531d73c381fc88ac8d) — [fix: polish financial statement series and simplify reading entry points](https://github.com/DapengFeng/dapengfeng.github.io/commit/18723e52bd839e51dd7e3d531d73c381fc88ac8d)
-- `2026-10-30` `DapengFeng/dapengfeng.github.io` · [`43d3052`](https://github.com/DapengFeng/dapengfeng.github.io/commit/43d305278fc52d1afd626f551282e758e5152023) — [fix: restore spacing after financial statement captions](https://github.com/DapengFeng/dapengfeng.github.io/commit/43d305278fc52d1afd626f551282e758e5152023)
 
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->
