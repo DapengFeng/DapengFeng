@@ -12,6 +12,16 @@
   },
   "commits": [
     {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "b291ccbe64a35160141b997abd2a5d5c7340f063",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/b291ccbe64a35160141b997abd2a5d5c7340f063",
+      "title": "feat: replenish daily mathematics with 24 reviewed topics",
+      "author": "DapengFeng",
+      "authored_at": "2026-11-09T00:46:53Z"
+    },
+    {
       "repository": "DapengFeng/TD",
       "default_branch": "main",
       "is_fork": false,
@@ -50,16 +60,6 @@
       "title": "feat: automate daily mathematics inventory reminders",
       "author": "DapengFeng",
       "authored_at": "2026-11-07T00:08:52Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "35168d89e9bdfcad88e63bc8fba544e622316dc0",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/35168d89e9bdfcad88e63bc8fba544e622316dc0",
-      "title": "feat: add futures guide and replenish daily mathematics",
-      "author": "DapengFeng",
-      "authored_at": "2026-11-06T15:49:15Z"
     }
   ]
 }

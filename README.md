@@ -21,11 +21,11 @@ I build systems that help robots **perceive and reconstruct the world**, and too
 ### `$ git log --author=DapengFeng -5`
 
 <!--RECENT_COMMITS:START-->
+- `2026-11-09` `DapengFeng/dapengfeng.github.io` · [`b291ccb`](https://github.com/DapengFeng/dapengfeng.github.io/commit/b291ccbe64a35160141b997abd2a5d5c7340f063) — [feat: replenish daily mathematics with 24 reviewed topics](https://github.com/DapengFeng/dapengfeng.github.io/commit/b291ccbe64a35160141b997abd2a5d5c7340f063)
 - `2026-11-08` `DapengFeng/TD` · [`8de8e67`](https://github.com/DapengFeng/TD/commit/8de8e675e82e307e5a39510061bb86050222b5e5) — [Initial commit](https://github.com/DapengFeng/TD/commit/8de8e675e82e307e5a39510061bb86050222b5e5)
 - `2026-11-07` `DapengFeng/dapengfeng.github.io` · [`7b84ee2`](https://github.com/DapengFeng/dapengfeng.github.io/commit/7b84ee2e090874fc17d8c1ae6f92e7bb8ef69efc) — [feat: expand futures arbitrage examples and funding analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/7b84ee2e090874fc17d8c1ae6f92e7bb8ef69efc)
 - `2026-11-07` `DapengFeng/dapengfeng.github.io` · [`d32ef1a`](https://github.com/DapengFeng/dapengfeng.github.io/commit/d32ef1a613d974754a4ba80d43577c1cdb0b7437) — [feat: add classical Chinese and English typography](https://github.com/DapengFeng/dapengfeng.github.io/commit/d32ef1a613d974754a4ba80d43577c1cdb0b7437)
 - `2026-11-07` `DapengFeng/dapengfeng.github.io` · [`c988376`](https://github.com/DapengFeng/dapengfeng.github.io/commit/c988376d55077b11c26e3ad2b86f829cf5f07426) — [feat: automate daily mathematics inventory reminders](https://github.com/DapengFeng/dapengfeng.github.io/commit/c988376d55077b11c26e3ad2b86f829cf5f07426)
-- `2026-11-06` `DapengFeng/dapengfeng.github.io` · [`35168d8`](https://github.com/DapengFeng/dapengfeng.github.io/commit/35168d89e9bdfcad88e63bc8fba544e622316dc0) — [feat: add futures guide and replenish daily mathematics](https://github.com/DapengFeng/dapengfeng.github.io/commit/35168d89e9bdfcad88e63bc8fba544e622316dc0)
 
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->
