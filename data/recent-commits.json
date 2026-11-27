@@ -15,6 +15,26 @@
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "2df07d702da788076a578833389fb184b9b9ae2f",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/2df07d702da788076a578833389fb184b9b9ae2f",
+      "title": "fix: correct grammar in bilingual blog posts",
+      "author": "DapengFeng",
+      "authored_at": "2026-11-27T08:17:38Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
+      "sha": "edd88627259e690f2a4a1bc9dfbdc976f0320743",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/edd88627259e690f2a4a1bc9dfbdc976f0320743",
+      "title": "feat: add human memory article with interactive brain anatomy",
+      "author": "DapengFeng",
+      "authored_at": "2026-11-27T07:24:41Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "b291ccbe64a35160141b997abd2a5d5c7340f063",
       "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/b291ccbe64a35160141b997abd2a5d5c7340f063",
       "title": "feat: replenish daily mathematics with 24 reviewed topics",
@@ -40,26 +60,6 @@
       "title": "feat: expand futures arbitrage examples and funding analysis",
       "author": "DapengFeng",
       "authored_at": "2026-11-07T01:59:09Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "d32ef1a613d974754a4ba80d43577c1cdb0b7437",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/d32ef1a613d974754a4ba80d43577c1cdb0b7437",
-      "title": "feat: add classical Chinese and English typography",
-      "author": "DapengFeng",
-      "authored_at": "2026-11-07T00:09:13Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "c988376d55077b11c26e3ad2b86f829cf5f07426",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/c988376d55077b11c26e3ad2b86f829cf5f07426",
-      "title": "feat: automate daily mathematics inventory reminders",
-      "author": "DapengFeng",
-      "authored_at": "2026-11-07T00:08:52Z"
     }
   ]
 }
