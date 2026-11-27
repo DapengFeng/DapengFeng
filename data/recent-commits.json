@@ -15,6 +15,16 @@
       "repository": "DapengFeng/dapengfeng.github.io",
       "default_branch": "main",
       "is_fork": false,
+      "sha": "089de2b643e4ba1b42afccbddb4e4279b324e9c7",
+      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/089de2b643e4ba1b42afccbddb4e4279b324e9c7",
+      "title": "fix(ci): pin Playwright browser jobs to Ubuntu 24.04",
+      "author": "DapengFeng",
+      "authored_at": "2026-11-27T09:18:21Z"
+    },
+    {
+      "repository": "DapengFeng/dapengfeng.github.io",
+      "default_branch": "main",
+      "is_fork": false,
       "sha": "2df07d702da788076a578833389fb184b9b9ae2f",
       "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/2df07d702da788076a578833389fb184b9b9ae2f",
       "title": "fix: correct grammar in bilingual blog posts",
@@ -50,16 +60,6 @@
       "title": "Initial commit",
       "author": "DapengFeng",
       "authored_at": "2026-11-08T01:17:38Z"
-    },
-    {
-      "repository": "DapengFeng/dapengfeng.github.io",
-      "default_branch": "main",
-      "is_fork": false,
-      "sha": "7b84ee2e090874fc17d8c1ae6f92e7bb8ef69efc",
-      "url": "https://github.com/DapengFeng/dapengfeng.github.io/commit/7b84ee2e090874fc17d8c1ae6f92e7bb8ef69efc",
-      "title": "feat: expand futures arbitrage examples and funding analysis",
-      "author": "DapengFeng",
-      "authored_at": "2026-11-07T01:59:09Z"
     }
   ]
 }

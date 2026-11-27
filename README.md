@@ -21,11 +21,11 @@ I build systems that help robots **perceive and reconstruct the world**, and too
 ### `$ git log --author=DapengFeng -5`
 
 <!--RECENT_COMMITS:START-->
+- `2026-11-27` `DapengFeng/dapengfeng.github.io` · [`089de2b`](https://github.com/DapengFeng/dapengfeng.github.io/commit/089de2b643e4ba1b42afccbddb4e4279b324e9c7) — [fix\(ci\): pin Playwright browser jobs to Ubuntu 24\.04](https://github.com/DapengFeng/dapengfeng.github.io/commit/089de2b643e4ba1b42afccbddb4e4279b324e9c7)
 - `2026-11-27` `DapengFeng/dapengfeng.github.io` · [`2df07d7`](https://github.com/DapengFeng/dapengfeng.github.io/commit/2df07d702da788076a578833389fb184b9b9ae2f) — [fix: correct grammar in bilingual blog posts](https://github.com/DapengFeng/dapengfeng.github.io/commit/2df07d702da788076a578833389fb184b9b9ae2f)
 - `2026-11-27` `DapengFeng/dapengfeng.github.io` · [`edd8862`](https://github.com/DapengFeng/dapengfeng.github.io/commit/edd88627259e690f2a4a1bc9dfbdc976f0320743) — [feat: add human memory article with interactive brain anatomy](https://github.com/DapengFeng/dapengfeng.github.io/commit/edd88627259e690f2a4a1bc9dfbdc976f0320743)
 - `2026-11-09` `DapengFeng/dapengfeng.github.io` · [`b291ccb`](https://github.com/DapengFeng/dapengfeng.github.io/commit/b291ccbe64a35160141b997abd2a5d5c7340f063) — [feat: replenish daily mathematics with 24 reviewed topics](https://github.com/DapengFeng/dapengfeng.github.io/commit/b291ccbe64a35160141b997abd2a5d5c7340f063)
 - `2026-11-08` `DapengFeng/TD` · [`8de8e67`](https://github.com/DapengFeng/TD/commit/8de8e675e82e307e5a39510061bb86050222b5e5) — [Initial commit](https://github.com/DapengFeng/TD/commit/8de8e675e82e307e5a39510061bb86050222b5e5)
-- `2026-11-07` `DapengFeng/dapengfeng.github.io` · [`7b84ee2`](https://github.com/DapengFeng/dapengfeng.github.io/commit/7b84ee2e090874fc17d8c1ae6f92e7bb8ef69efc) — [feat: expand futures arbitrage examples and funding analysis](https://github.com/DapengFeng/dapengfeng.github.io/commit/7b84ee2e090874fc17d8c1ae6f92e7bb8ef69efc)
 
 <sub>Dates: UTC+08:00 · Up to 20 recently pushed public repositories scanned · Default branches only.</sub>
 <!--RECENT_COMMITS:END-->
